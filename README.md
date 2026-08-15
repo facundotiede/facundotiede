@@ -1,22 +1,17 @@
 <h1 align="center">Facundo Tiede</h1>
 
 <p align="center">
-  Ciberseguridad • Automatización • Linux • Sistemas Digitales
-</p>
-
-<p align="center">
-  Construyendo <strong>Intuia Labs</strong>
+  Soporte L2 • Scripting Python • Linux • Backend Fundamentals
 </p>
 
 ---
 
 ### Sobre mí
 
-- 🛡️ Enfocado en ciberseguridad, automatización e infraestructura digital.
-- 🐧 Aprendiendo mediante entornos Linux, networking y laboratorios prácticos.
-- ⚙️ Desarrollando scripting en Python, flujos en Bash y pensamiento analítico.
-- 📚 Interesado en sistemas, inteligencia, finanzas y tecnologías emergentes.
-- 🚀 Construyendo un camino a largo plazo hacia la autonomía a través de la tecnología.
+- 🛠️ **Soporte de Aplicaciones L2:** Diagnóstico y resolución de incidencias en entornos de producción.
+- 🐍 **Automatización con Python:** Desarrollo de herramientas CLI, parsing de logs y exportación de datos estructurados.
+- 🗄️ **Fundamentos de Backend & DBs:** Rastreo de errores en APIs REST, conectividad a PostgreSQL/SQL y análisis del flujo de datos.
+- 🐧 **Sistemas & Entornos:** Trabajo habitual en Linux/Windows mediante Git, bash y línea de comandos.
 
 ---
 
@@ -36,24 +31,16 @@
     <img src="https://skillicons.dev/icons?i=git" alt="git" width="48" height="48"/>
   </a>
 
-  <a href="https://www.gnu.org/software/bash/" target="_blank" rel="noreferrer">
-    <img src="https://skillicons.dev/icons?i=bash" alt="bash" width="48" height="48"/>
+  <a href="https://www.postgresql.org/" target="_blank" rel="noreferrer">
+    <img src="https://skillicons.dev/icons?i=postgres" alt="postgres" width="48" height="48"/>
   </a>
 
-  <a href="https://www.mysql.com/" target="_blank" rel="noreferrer">
-    <img src="https://skillicons.dev/icons?i=mysql" alt="mysql" width="48" height="48"/>
+  <a href="https://code.visualstudio.com/" target="_blank" rel="noreferrer">
+    <img src="https://skillicons.dev/icons?i=vscode" alt="vscode" width="48" height="48"/>
   </a>
 
   <a href="https://www.docker.com/" target="_blank" rel="noreferrer">
     <img src="https://skillicons.dev/icons?i=docker" alt="docker" width="48" height="48"/>
-  </a>
-
-  <a href="https://www.wireshark.org/" target="_blank" rel="noreferrer">
-  <img src="https://raw.githubusercontent.com/simple-icons/simple-icons/develop/icons/wireshark.svg" alt="wireshark"      width="48" height="48"/>
-  </a>
-
-  <a href="https://www.kali.org/" target="_blank" rel="noreferrer">
-    <img src="https://img.icons8.com/color/48/kali-linux.png" alt="kali linux" width="48" height="48"/>
   </a>
 
 </p>
@@ -63,8 +50,7 @@
 ### Enfoque Actual
 
 ```txt
-Fundamentos de Ciberseguridad
-Networking & Linux
-Automatización con Python
-Investigación en Seguridad
-Análisis de Datos
+Soporte L2 & Análisis de Incidencias
+Automatización de Procesos con Python
+Diagnóstico de APIS REST & Bases de Datos
+Gestión de Datos Estructurados (JSON/SQL)
